@@ -1,0 +1,13 @@
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors.exe
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors.deps.json
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors.runtimeconfig.json
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors.runtimeconfig.dev.json
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors.dll
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\bin\Debug\netcoreapp3.1\Rock-Paper-Scissors.pdb
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors.AssemblyInfoInputs.cache
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors.AssemblyInfo.cs
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors.dll
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors.pdb
+C:\Users\Eneida Lame\Desktop\SnakeGame\Rock-Paper-Scissors\obj\Debug\netcoreapp3.1\Rock-Paper-Scissors.genruntimeconfig.cache
